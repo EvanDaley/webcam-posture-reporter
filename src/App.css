@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+/* CSS Variables. I'm not in love with this approach :/ */
+:root {
+  --main-bg-color: #0B2340;
+}
